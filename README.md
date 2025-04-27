@@ -19,6 +19,12 @@
 - 🎨 **丰富动画**：使用Framer Motion实现的丰富动画效果
 - 🔒 **图片保护**：支持设置密码保护重要照片
 
+## 预览
+![](https://fastly.jsdelivr.net/gh/bucketio/img1@main/2025/04/27/1745741625284-d9bce831-a3bd-4e37-827c-b0bb4b400665.png)
+![](https://fastly.jsdelivr.net/gh/bucketio/img18@main/2025/04/27/1745741702260-1fdd3592-680b-4c5a-8ade-366cbe2b0451.png)
+![](https://fastly.jsdelivr.net/gh/bucketio/img8@main/2025/04/27/1745741743020-7d769861-ab15-423b-98fb-11e10a7f44a3.png)
+![](https://fastly.jsdelivr.net/gh/bucketio/img0@main/2025/04/27/1745741798238-776e3d58-ca1c-415f-a1e6-a5d167d8814b.png)
+
 ## 🖥️ 演示
 
 [Demo链接](#) _()
