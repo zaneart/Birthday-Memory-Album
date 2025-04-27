@@ -20,10 +20,10 @@
 - 🔒 **图片保护**：支持设置密码保护重要照片
 
 ## 预览
-![首页](https://fastly.jsdelivr.net/gh/bucketio/img1@main/2025/04/27/1745741625284-d9bce831-a3bd-4e37-827c-b0bb4b400665.png)(https://zaneart.com/)
-![精彩瞬间](https://fastly.jsdelivr.net/gh/bucketio/img18@main/2025/04/27/1745741702260-1fdd3592-680b-4c5a-8ade-366cbe2b0451.png)(https://zaneart.com/gallery)
-![成长历程](https://fastly.jsdelivr.net/gh/bucketio/img8@main/2025/04/27/1745741743020-7d769861-ab15-423b-98fb-11e10a7f44a3.png)(https://zaneart.com/milestones)
-![图片预览](https://fastly.jsdelivr.net/gh/bucketio/img0@main/2025/04/27/1745741798238-776e3d58-ca1c-415f-a1e6-a5d167d8814b.png)(https://zaneart.com/)
+[![首页](https://fastly.jsdelivr.net/gh/bucketio/img1@main/2025/04/27/1745741625284-d9bce831-a3bd-4e37-827c-b0bb4b400665.png)(https://zaneart.com/)]
+[![精彩瞬间](https://fastly.jsdelivr.net/gh/bucketio/img18@main/2025/04/27/1745741702260-1fdd3592-680b-4c5a-8ade-366cbe2b0451.png)(https://zaneart.com/gallery)]
+[![成长历程](https://fastly.jsdelivr.net/gh/bucketio/img8@main/2025/04/27/1745741743020-7d769861-ab15-423b-98fb-11e10a7f44a3.png)(https://zaneart.com/milestones)]
+[![图片预览](https://fastly.jsdelivr.net/gh/bucketio/img0@main/2025/04/27/1745741798238-776e3d58-ca1c-415f-a1e6-a5d167d8814b.png)(https://zaneart.com/)]
 适配手机端，演示站点为自用版本，可能部分细节和开源版本不一致。
 ## 🖥️ 演示
 
