@@ -53,8 +53,8 @@
 
 1. 克隆仓库
 ```bash
-git clone https://github.com/lylares/zaneart.git
-cd birthday-memory-album
+git clone https://github.com/zaneart/Birthday-Memory-Album.git
+cd Birthday-Memory-Album
 ```
 
 2. 安装依赖
